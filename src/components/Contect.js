@@ -5,8 +5,7 @@ import "./home.css";
 import Form from "./Form";
 
 
-const Contect = (props) => {
-  
+const Contect = () => {
   return (
     <>
       <div id="contect" className="mt-5">
